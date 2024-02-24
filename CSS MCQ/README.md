@@ -1,9 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
-  <img height="60" src="../Images/icons8-css3-100.png">
-=======
-  <img height="60" src="../Images/icons8-css-100.png">
->>>>>>> 17ca9a53d1ebccd01049063d74a26008aff752b5
+  <img height="100" src="../Images/icons8-css3-100.png">
   <h1>CSS Questions</h1>
 
 ---
