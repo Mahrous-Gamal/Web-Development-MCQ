@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Development MCQ</title>
+    <style>
+        * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+    color: white;
+    text-align: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    position: relative;
+    margin-top: 15%;
+    left: 50%;
+    width: 0px;
+    transform: translate(-50%, 55%);
+}
+
+.toggle {
+    display: none;
+}
+
+.toggle+.style {
+    width: 90px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    transform: translate(-50%, -50%) scale(1);
+    z-index: 5;
+    display: block;
+    color: #fff;
+    font-size: 2.5em;
+    padding-top: 75px;
+    text-align: center;
+    -webkit-transition: all .8s;
+    -moz-transition: all .8s;
+    -o-transition: all .8s;
+    -ms-transition: all .8s;
+    transition: all .8s;
+    position: relative;
+}
+
+.menu a {
+    text-align: center;
+    line-height: 80px;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+.fa-bars {
+    display: block;
+    color: white;
+    margin-top: -45px !important;
+
+}
+
+
+.toggle:checked+.style {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.menu input[type=checkbox]+label:before {
+    content: "";
+    position: absolute;
+}
+
+.toggle+.style:before,
+.toggle+.style:after {
+    content: "";
+    position: absolute;
+    margin: -3px;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.toggle+.style:before {
+    width: 30px;
+    height: 0px;
+    left: 10px;
+    top: 25px;
+}
+
+.toggle+.style:after {
+    width: 0px;
+    height: 30px;
+    left: 25px;
+    top: 10px;
+}
+
+.toggle:checked+.style:before,
+.toggle:checked+.style:after {
+    transform: rotate(135deg);
+}
+
+.toggle~.tab {
+    position: absolute;
+    color: #fff;
+    width: 70px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    transform: translate(-50%, -50%) scale(0);
+    transition: all 0.3s;
+    opacity: 0;
+    border-radius: 50%;
+}
+
+.toggle:checked~.tab {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(1) {
+    top: -122px;
+    left: 0px;
+    transition-delay: 0s;
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(2) {
+    top: -74px;
+    left: 120px;
+    transition-delay: 0.125s;
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(3) {
+    top: 56px;
+    left: 115px;
+    transition-delay: 0.25s;
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(4) {
+    top: 122px;
+    left: 0px;
+    transition-delay: 0.375s;
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(5) {
+    top: 56px;
+    left: -115px;
+    transition-delay: 0.5s;
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(6) {
+    top: -74px;
+    left: -120px;
+    transition-delay: 0.625s;
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(7) {
+    top: 0px;
+    left: -133.33333px;
+    transition-delay: 0.75s;
+}
+
+.menu>.toggle:checked~.tab:nth-of-type(8) {
+    top: -94.2809px;
+    left: -94.2809px;
+    transition-delay: 0.875s;
+}
+
+.style {
+    /* background-color: #343a40; */
+    margin-top: 200px;
+}
+
+.fab {
+    color: white !important;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 80px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 120px;
+    font-size: 1.2em;
+
+}
+
+.m-mahrous {
+    color: red;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+    transition: all .2s ease;
+    /* background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf); */
+    /* background: radial-gradient(circle at 33% 100%,#feb824 85%, #bdc3f5); */
+    background-color: #e5532d;
+
+}
+
+.html {
+
+    background: #e5532d;
+
+
+}
+
+.css {
+
+    background: #1DA1F2;
+
+}
+
+.bootstrap {
+
+    background: #8d1aff;
+
+}
+
+.js {
+    background: #eacc09;
+
+}
+
+.ts {
+    background: #007acc;
+
+}
+
+.react {
+    background: #0275d8;
+
+}
+
+/* style */
+.plate {
+
+    width: 80px;
+    /* border: 2px solid red; */
+    position: absolute;
+    margin-top: -85px;
+    margin-left: -3px;
+    height: fit-content;
+}
+
+.burger {
+    filter: url(#gooeyness);
+}
+
+.x {
+    transform: scale(1);
+    transition: transform 400ms;
+}
+
+.line {
+    fill: none;
+    stroke: white;
+    stroke-width: 6px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    transform-origin: 50%;
+    transition: stroke-dasharray 500ms 200ms, stroke-dashoffset 500ms 200ms, transform 500ms 200ms;
+}
+
+
+.plate4 .x {
+    transition: transform 400ms;
+}
+
+.plate4 .line {
+    transform-origin: 50%;
+    transition: transform 400ms 100ms;
+}
+
+.active.plate4 .line {
+    transition: transform 400ms;
+}
+
+.active.plate4 .line1 {
+    transform: translateX(18px) translateY(-3px) rotate(-45deg) scale(.7);
+}
+
+.active.plate4 .line2 {
+    transform: translateX(-18px) translateY(-3px) rotate(45deg) scale(.7);
+}
+
+.active.plate4 .line3 {
+    transform: translateY(0px) rotate(45deg) scale(.7);
+}
+
+.active.plate4 .line4 {
+    transform: translateY(0px) rotate(-45deg) scale(.7);
+}
+
+.active.plate4 .line5 {
+    transform: translateX(18px) translateY(3px) rotate(45deg) scale(.7);
+}
+
+.active.plate4 .line6 {
+    transform: translateX(-18px) translateY(3px) rotate(-45deg) scale(.7);
+}
+
+.info p {
+    /* margin-top: 5px; */
+    /* border: 2px solid red; */
+    line-height: 1.8;
+}
+.txt-html {
+
+    color: #e5532d;
+
+}
+
+.txt-css {
+
+    color: #1DA1F2;
+
+}
+
+.txt-bootstrap {
+
+    color: #8d1aff;
+
+}
+
+.txt-js {
+    color: #eacc09;
+
+}
+
+.txt-ts {
+    color: #007acc;
+
+}
+
+.txt-react {
+    color: #50a5ee;
+
+}
+    </style>
+
+    <!-- Box Icons -->
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class='menu'>
+
+            <input class='toggle' id='menu' type='checkbox'>
+            <label class='style' for='menu'>
+                <!-- <i class="fa fa-bars" aria-hidden="true"></i> -->
+                <div class="plate plate4" onclick="this.classList.toggle('active')">
+                    <svg class="burger" version="1.1" height="100" width="100" viewBox="0 0 100 100">
+                        <path class="line line1" d="M 50,35 H 30" />
+                        <path class="line line2" d="M 50,35 H 70" />
+                        <path class="line line3" d="M 50,50 H 30" />
+                        <path class="line line4" d="M 50,50 H 70" />
+                        <path class="line line5" d="M 50,65 H 30" />
+                        <path class="line line6" d="M 50,65 H 70" />
+                    </svg>
+                    <svg class="x" version="1.1" height="0" width="100" viewBox="0 0 100 100">
+                        <path class="line" d="M 34,32 L 66,68" />
+                        <path class="line" d="M 66,32 L 34,68" />
+                    </svg>
+                </div>
+            </label>
+            <a class="tab html icon" href="https://mahrousgamal.vercel.app/" target="_blank">
+                <i class="bx bxl-html5"></i>
+            </a>
+            <a class="tab css icon" href="https://www.linkedin.com/in/mahrous-gamal-044693218/" target="_blank"><i <i
+                    class="bx bxl-css3"></i></a>
+            <a class="tab bootstrap icon" href="https://github.com/Mahrous-Gamal" target="_blank">
+                <i class="bx bxl-bootstrap"></i></a>
+            <a class="tab js icon" href="https://github.com/Mahrous-Gamal/Web-Development-MCQ/blob/master/Javascript%20MCQ/README.md"
+                target="_blank">
+                <i class="bx bxl-javascript"></i></a>
+            <a class="tab ts icon" href="https://www.facebook.com/profile.php?id=100041500743911" target="_blank"><i <i
+                    class="bx bxl-typescript"></i></a>
+            <a class="tab react" href="mailto:mahrousgamal2001@gmail.com" target="_blank"> <i
+                    class="bx bxl-react"></i></a>
+        </div><!-- menu -->
+        <div class="info">
+            <!-- <p><span class="m-mahrous">M</span>ahrous <span class="m-mahrous">G</span>amal </p> -->
+            <p>Web Development MCQ</p>
+            <p>Multiple Choice (<span class="txt-html">HTML</span> <span class="txt-css">CSS</span> <span
+                    class="txt-bootstrap">Bootstrap</span> <span class="txt-js">Javascript</span> <span
+                    class="txt-ts">Typescript</span> <span class="txt-react">React</span> ) Questions From Basic To
+                Advanced</p>
+
+        </div>
+    </div><!-- container -->
+</body>
+
+</html>
