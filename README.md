@@ -8,8 +8,7 @@
 
 ## [Website Demo](https://web-development-mcq.vercel.app/)
 
-
-![roonz-nl-2xEQDxB0ss4-unsplash](https://github.com/Mahrous-Gamal/Web-Development-MCQ/assets/105131896/ae507f63-cc8f-4d56-ae21-d78691d17769)
+![roonz-nl-2xEQDxB0ss4-unsplash](https://github.com/Mahrous-Gamal/Web-Development-MCQ/assets/105131896/c540f9a4-1d18-469a-bf35-61001d0a3aa0)
 
 ## 🙋‍♂️ Let's Connect
 <p align="center">
