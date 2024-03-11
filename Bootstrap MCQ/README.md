@@ -40,7 +40,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) Sass
+#### Answer: A) Sass
 
 </p>
 </details>
@@ -74,7 +74,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .container
+#### Answer: A) .container
 
 </p>
 </details>
@@ -140,7 +140,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .container-fluid
+#### Answer: A) .container-fluid
 
 </p>
 </details>
@@ -208,7 +208,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .align-items-center
+#### Answer: A) .align-items-center
 
 </p>
 </details>
@@ -225,7 +225,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To style input elements
+#### Answer: A) To style input elements
 
 </p>
 </details>
@@ -276,7 +276,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .dropdown-menu
+#### Answer: A) .dropdown-menu
 
 </p>
 </details>
@@ -293,7 +293,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display notifications or counts
+#### Answer: A) To display notifications or counts
 
 </p>
 </details>
@@ -310,7 +310,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .carousel
+#### Answer: A) .carousel
 
 </p>
 </details>
@@ -344,7 +344,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) By using the .text-center class
+#### Answer: A) By using the .text-center class
 
 </p>
 </details>
@@ -378,7 +378,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display pop-up notifications
+#### Answer: A) To display pop-up notifications
 
 </p>
 </details>
@@ -481,7 +481,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) By using the .img-fluid class
+#### Answer: A) By using the .img-fluid class
 
 </p>
 </details>
@@ -515,7 +515,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display hierarchical navigation links
+#### Answer: A) To display hierarchical navigation links
 
 </p>
 </details>
@@ -532,7 +532,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .container-fluid
+#### Answer: A) .container-fluid
 
 </p>
 </details>
@@ -549,7 +549,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To toggle the visibility of the navbar
+#### Answer: A) To toggle the visibility of the navbar
 
 </p>
 </details>
@@ -583,7 +583,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) By using the .card-group class
+#### Answer: A) By using the .card-group class
 
 </p>
 </details>
@@ -600,7 +600,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To collapse elements vertically
+#### Answer: A) To collapse elements vertically
 
 </p>
 </details>
@@ -617,7 +617,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .form-horizontal
+#### Answer: A) .form-horizontal
 
 </p>
 </details>
@@ -634,7 +634,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) By using the .border class
+#### Answer: A) By using the .border class
 
 </p>
 </details>
@@ -668,7 +668,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display loading indicators
+#### Answer: A) To display loading indicators
 
 </p>
 </details>
@@ -685,7 +685,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) By using the .navbar-expand class
+#### Answer: A) By using the .navbar-expand class
 
 </p>
 </details>
@@ -787,7 +787,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .row
+#### Answer: A) .row
 
 </p>
 </details>
@@ -804,7 +804,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display additional information on hover
+#### Answer: A) To display additional information on hover
 
 </p>
 </details>
@@ -872,7 +872,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display hierarchical navigation links
+#### Answer: A) To display hierarchical navigation links
 
 </p>
 </details>
@@ -889,7 +889,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .table-responsive
+#### Answer: A) .table-responsive
 
 </p>
 </details>
@@ -923,7 +923,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .navbar-expand
+#### Answer: A) .navbar-expand
 
 </p>
 </details>
@@ -974,7 +974,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display loading indicators
+#### Answer: A) To display loading indicators
 
 </p>
 </details>
@@ -1042,7 +1042,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .form-horizontal
+#### Answer: A) .form-horizontal
 
 </p>
 </details>
@@ -1059,7 +1059,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .container-fluid
+#### Answer: A) .container-fluid
 
 </p>
 </details>
@@ -1127,7 +1127,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To style input elements
+#### Answer: A) To style input elements
 
 </p>
 </details>
@@ -1161,7 +1161,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To create collapsible content panels
+#### Answer: A) To create collapsible content panels
 
 </p>
 </details>
@@ -1195,7 +1195,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .list-group
+#### Answer: A) .list-group
 
 </p>
 </details>
@@ -1246,7 +1246,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display a series of links to pages
+#### Answer: A) To display a series of links to pages
 
 </p>
 </details>
@@ -1263,7 +1263,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .col
+#### Answer: A) .col
 
 </p>
 </details>
@@ -1280,7 +1280,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display counts or labels
+#### Answer: A) To display counts or labels
 
 </p>
 </details>
@@ -1331,7 +1331,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .modal
+#### Answer: A) .modal
 
 </p>
 </details>
@@ -1348,7 +1348,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display additional information on hover
+#### Answer: A) To display additional information on hover
 
 </p>
 </details>
@@ -1365,7 +1365,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .form-group
+#### Answer: A) .form-group
 
 </p>
 </details>
@@ -1399,7 +1399,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .col-auto
+#### Answer: A) .col-auto
 
 </p>
 </details>
@@ -1433,7 +1433,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .navbar-brand
+#### Answer: A) .navbar-brand
 
 </p>
 </details>
@@ -1450,7 +1450,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .list-group-flush
+#### Answer: A) .list-group-flush
 
 </p>
 </details>
@@ -1467,7 +1467,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .form-inline
+#### Answer: A) .form-inline
 
 </p>
 </details>
@@ -1501,7 +1501,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) To display a series of links to pages
+#### Answer: A) To display a series of links to pages
 
 </p>
 </details>
@@ -1518,7 +1518,7 @@ Feel free to reach out to me! 😊 <br />
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### #### Answer: A) .row
+#### Answer: A) .row
 
 </p>
 </details>
@@ -1541,7 +1541,7 @@ Feel free to reach out to me! 😊 <br />
 - C: To handle form submissions
 - D: To style buttons
 
-#### #### Answer: A) To display a series of links to pages
+#### Answer: A) To display a series of links to pages
 
 ###### 1. Which class is used to create a responsive card layout where all cards have the same width and height in Bootstrap 5?
 
@@ -1550,7 +1550,7 @@ Feel free to reach out to me! 😊 <br />
 - C: .card-equal
 - D: .card-stack
 
-#### #### Answer: A) .card-deck
+#### Answer: A) .card-deck
 
 ###### 1. Which class is used to create a responsive navigation menu with pills in Bootstrap 5?
 
@@ -1559,7 +1559,7 @@ Feel free to reach out to me! 😊 <br />
 - C: .nav-tabs
 - D: .navbar-nav
 
-#### #### Answer: A) .nav-pills
+#### Answer: A) .nav-pills
 
 ###### 1. Which class is used to create a responsive list group with flush borders in Bootstrap 5?
 
@@ -1568,7 +1568,7 @@ Feel free to reach out to me! 😊 <br />
 - C: .list-group-no-border
 - D: .list-group-clear
 
-#### #### Answer: A) .list-group-flush
+#### Answer: A) .list-group-flush
 
 ###### 1. Which class is used to create a responsive form layout with inline elements in Bootstrap 5?
 
@@ -1577,7 +1577,7 @@ Feel free to reach out to me! 😊 <br />
 - C: .form-grid
 - D: .form-row
 
-#### #### Answer: A) .form-inline
+#### Answer: A) .form-inline
 
 ###### 1. What is the purpose of the "breadcrumb" component in Bootstrap 5?
 
@@ -1586,7 +1586,7 @@ Feel free to reach out to me! 😊 <br />
 - C: To handle form submissions
 - D: To style buttons
 
-#### #### Answer: A) To display a series of links to pages
+#### Answer: A) To display a series of links to pages
 
 ###### 1. Which class is used to create a responsive grid layout with columns that automatically adjust their width based on the content in Bootstrap 5?
 
