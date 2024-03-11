@@ -92,7 +92,10 @@ Feel free to reach out to me! 😊 <br />
 <p>
 
 #### Answer: D) .visually-hidden
+</p>
+</details>
 
+---
 ###### 6. Which of the following is NOT a component in Bootstrap 5?
 
 - A: Navbar
