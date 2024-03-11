@@ -13,7 +13,6 @@ Feel free to reach out to me! 😊 <br />
 
 </div>
 
-
 ###### 1. What is Bootstrap 5?
 
 - A: A programming language
