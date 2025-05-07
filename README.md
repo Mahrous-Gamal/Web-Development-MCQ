@@ -2,9 +2,9 @@
 - HTML MCQ.
 - CSS MCQ.
 - Bootstrap MCQ.
-- Javascript MCQ.
-- Typescript MCQ.
-- React MCQ.
+- JavaScript MCQ.
+- TypeScript MCQ.
+- React.js MCQ.
 
 ## [Website Demo](https://web-development-mcq.vercel.app/)
 
